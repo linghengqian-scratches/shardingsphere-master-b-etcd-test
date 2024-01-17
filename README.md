@@ -1,5 +1,7 @@
 # shardingsphere-master-b-etcd-test
 
+# Fixed by https://github.com/apache/shardingsphere/pull/29738 and https://github.com/apache/shardingsphere/pull/29755 .
+
 - For https://github.com/apache/shardingsphere/issues/29052 .
 
 - Execute the following command on the Ubuntu 22.04.3 LTS instance with `SDKMAN!`.
